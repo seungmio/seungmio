@@ -1,5 +1,5 @@
 # Hi! I'm Seungmi 👋 
-- 🌱 I'm interested in `JAVA`, `Spring / Spring boot`, `MySQL`, `Cloud Computing`
+- 🌱 I'm interested in `JAVA`, `Spring / Spring boot`, `MySQL`, `Cloud Computing` these days
 - 👩🏻‍🎓 `Software convergence`, Seoul Women's University (2020.03 ~ 2024.02)
 
 [![Solved.ac
